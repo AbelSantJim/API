@@ -6,8 +6,8 @@ Alumno: Santiago Jimenez Abel
 
 ## Tecnologias Usadas
 
-Angular 20
-Material Design
+1. Angular 20
+2. Material Design
 
 ## Explicacion del codigo
 
