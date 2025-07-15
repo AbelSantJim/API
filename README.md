@@ -43,6 +43,29 @@ En este archivo definimos variables donde almacenaremos valores de interes:
 
 En el componente anterior, el email guardado fue almacenado de manera global por lo que podemos acceder a el desde un componente distinto. 
 En este metodo de nombre getUsuario, obtenemos todos los usuarios de la api y los almacenamos en un arreglo, luego filtramos 
+
 ## APIS elegidas
 
+1. Bob's burger
+   linK: https://www.bobsburgersapi.com
+   Esta api no requiere de una llave de autetificacion o un token y nos permite explorar el catalogo de personajes, episodios, secuencias de creditos y otros datos de la serie       animada Bob's burger. Es gratuita y puede ser consultada las veces que sea necesaria.
+2. Usuarios:
+   link: https://68743fcedd06792b9c937143.mockapi.io/api/users
+   Esta api de uso gratuito es un api falsa que podemos usar para propositivos ilustrativos. Podemos acceder a sus atributos como:
+   1. nombre
+   2. email
+   3. contraseña
+   4. Imagen de perfil
+   5. id de perfil
+   Puede ser consultada infinita cantidad de veces.
+   
+
 ## Capturas de pantalla del proyecto
+
+### Dashboard
+<img width="1879" height="886" alt="Screenshot 2025-07-15 085127" src="https://github.com/user-attachments/assets/5a1d4f4b-b66a-4cdb-8fad-86b65a8f2cc6" />
+
+### Login
+<img width="1911" height="549" alt="Screenshot 2025-07-15 085241" src="https://github.com/user-attachments/assets/7a930129-edb5-4ff1-80f7-3f8abf1310e0" />
+
+
