@@ -8,7 +8,8 @@ Alumno: Santiago Jimenez Abel
 
 1. Angular 20
 2. Material Design
-
+3. Github Pages
+4. Git
 ## Explicacion del codigo
 
 El codigo consiste de dos componentes, login y dashboard.
